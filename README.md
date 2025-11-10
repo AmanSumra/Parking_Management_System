@@ -4,12 +4,12 @@ A simple, console-based Parking Management System to handle multi-floor parking 
 
 ✨ Features
 
-  Multi-floor, multi-slot management with A/B/C… floor labels and numeric slots.
+ - Multi-floor, multi-slot management with A/B/C… floor labels and numeric slots.
 
-  Reserved (R) & Non-Reserved (NR) slot handling with automatic allocation.
+ - Reserved (R) & Non-Reserved (NR) slot handling with automatic allocation.
 
-  Check-in / Check-out flow with basic time-based billing.
+ - Check-in / Check-out flow with basic time-based billing.
 
-  Report generation sorted by floor, slot, and check-in time.
+ - Report generation sorted by floor, slot, and check-in time.
 
-  Simple, modular OOP design (Car, Floor, Slot, ParkingManagement).
+ - Simple, modular OOP design (Car, Floor, Slot, ParkingManagement).
